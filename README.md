@@ -1,6 +1,11 @@
 # hello-ssl
 
-✔ Generate a self-signed CA
-✔ Sign a certificate
+Example program to generate a self-signed CA and certificate suitable for a HTTPS connection.
+
+## Done
+- Generate a self-signed CA
+- Sign a certificate
+
+## TODO
 - Add certificate into local certificate store
-- Use certificate as
+- Programatically associate the cert with a port
